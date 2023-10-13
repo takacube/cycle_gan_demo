@@ -1,0 +1,14 @@
+version: '3'
+services:
+  python3:
+    restart: always
+    build: .
+    environment:
+      - LD_PRELOAD=/usr/lib/aarch64-linux-gnu/libgomp.so.1
+    container_name: 'cycle_gan'
+    working_dir: '/app/'
+    tty: true
+    ports:
+      - "8082:8082"
+    volumes:
+      - ./:/app/

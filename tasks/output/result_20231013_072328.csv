@@ -1,0 +1,9 @@
+image_id,split,image_path,SepalWidth,image_id,SepalLength,split,image_path
+n07740461_10011,test,testB/n07740461_10011.jpg,123,n07740461_10011,B (Orange),test,testB/n07740461_10011.jpg
+n07740461_10012,train,trainA/n07740461_10012.jpg,123,n07740461_10012,A (Apple),train,trainA/n07740461_10012.jpg
+n07740461_10019,train,trainA/n07740461_10019.jpg,123,n07740461_10019,A (Apple),train,trainA/n07740461_10019.jpg
+n07740461_10037,train,trainA/n07740461_10037.jpg,123,n07740461_10037,A (Apple),train,trainA/n07740461_10037.jpg
+n07740461_10065,train,trainA/n07740461_10065.jpg,123,n07740461_10065,A (Apple),train,trainA/n07740461_10065.jpg
+n07740461_10067,train,trainA/n07740461_10067.jpg,123,n07740461_10067,A (Apple),train,trainA/n07740461_10067.jpg
+n07740461_10074,train,trainA/n07740461_10074.jpg,123,n07740461_10074,A (Apple),train,trainA/n07740461_10074.jpg
+n07740461_10080,test,testB/n07740461_10080.jpg,123,n07740461_10080,B (Orange),test,testB/n07740461_10080.jpg
